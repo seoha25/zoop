@@ -24,7 +24,7 @@
  ### 3. API 설계 
  ---   
 ![Image](https://github.com/user-attachments/assets/f0b76edd-9783-4285-80bf-b0949254f41d)   
- ---   
+---   
 ![Image](https://github.com/user-attachments/assets/13bfb8f8-b9cb-426d-8561-ebd867fc886a)   
 ![Image](https://github.com/user-attachments/assets/e21c5b9b-659e-448d-aa2a-ba6b92683cc5)   
 ![Image](https://github.com/user-attachments/assets/fa9a5df3-8ceb-48f8-bc8d-ea20ae57c545)   
