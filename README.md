@@ -37,11 +37,11 @@
 | 분류 | 기술 |
 |---|---|
 | Language | **Java**, **Python** |
-| Backend | **Spring Boot**, **Spring Security**, **JPA (Hibernate)**, **MyBatis(선택)** |
+| Backend | **Spring Boot**, **Spring Security**, **JPA (Hibernate)**|
 | Auth | **JWT** |
 | DB | **PostgreSQL** |
 | Infra | **AWS (EC2)** |
-| Collaboration/ETC | GitHub, Notion, Figma, Postman |
+| Collaboration/ETC | **GitHub**, **Notion**, **Figma**, **Postman** |
 
 ---
 
