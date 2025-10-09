@@ -1,22 +1,22 @@
 ## :pushpin: zoop
-> AI 기반 부동산 매물 추천 웹 & 모바일 서비스   
+> 공인중개사를 위한 AI 기반 부동산 플랫폼   
    
 </br>   
 
 ### 1.제작기간&참여 인원   
-* 2025.04.28 ~ 2025.06.27   
+* 2025.04.28 ~ 2025.06.27 (기획기간 포함)  
 * 기업연계 팀 프로젝트(13명)   
 
 </br>
 
-### 2.사용기술   
-* JAVA17
+### 2.Tech Stack   
+* JAVA
+* Python
 * Spring Boot
 * PostgreSQL   
 * spring Security   
 * JWT   
-* Spring Data Jpa
-* git action
+* JPA
 * AWS
        
  </br>     
