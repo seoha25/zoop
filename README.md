@@ -23,7 +23,7 @@
 
 ## 📌 프로젝트 개요
 공인중개사 업무에 특화된 **AI 기반 부동산 플랫폼**으로,  
-사용자 맞춤 **필터/알림/채팅 히스토리**를 통해 매물 탐색 효율을 높였습니다.
+사용자 맞춤 **필터/채팅 히스토리**를 통해 매물 탐색 효율을 높였습니다.
 
 ---
 
@@ -48,23 +48,13 @@
 ## 🧩 API / 아키텍처
 아래 문서/다이어그램은 주요 API 설계 및 서버-클라이언트 상호작용을 보여줍니다.
 
-<table>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/f0b76edd-9783-4285-80bf-b0949254f41d" alt="api-1"></td>
-    <td><img src="https://github.com/user-attachments/assets/13bfb8f8-b9cb-426d-8561-ebd867fc886a" alt="api-2"></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/e21c5b9b-659e-448d-aa2a-ba6b92683cc5" alt="api-3"></td>
-    <td><img src="https://github.com/user-attachments/assets/fa9a5df3-8ceb-48f8-bc8d-ea20ae57c545" alt="api-4"></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/c9d42b74-d017-442a-9d80-e8c4bb3e5e96" alt="api-5"></td>
-    <td><img src="https://github.com/user-attachments/assets/028e7b18-8014-4246-84bc-bb7ab92a8087" alt="api-6"></td>
-  </tr>
-  <tr>
-    <td colspan="2"><img src="https://github.com/user-attachments/assets/69a22d91-3a7b-4fdd-8811-ec79ab76aba9" alt="api-7"></td>
-  </tr>
-</table>
+<img width="962" height="377" alt="Image" src="https://github.com/user-attachments/assets/03325bc4-254b-431b-8f9b-8604d2d9790c" />
+<img width="961" height="318" alt="Image" src="https://github.com/user-attachments/assets/a45444f7-f35f-43e6-945b-733fe62704aa" />
+<img width="935" height="732" alt="Image" src="https://github.com/user-attachments/assets/3fa724f3-d44a-4612-b6aa-84ac7b65c704" />
+<img width="942" height="852" alt="Image" src="https://github.com/user-attachments/assets/35f033c5-c1d7-4998-82d3-6080a2839856" />
+<img width="935" height="904" alt="Image" src="https://github.com/user-attachments/assets/867a3ed0-ce20-4699-ba23-6256e906d25a" />
+<img width="912" height="374" alt="Image" src="https://github.com/user-attachments/assets/9cc4511e-44d7-4185-b845-cdf3bc6d3942" />
+
 
 ---
 
@@ -76,7 +66,6 @@
 ## 👤 내 담당 기능
 - **필터 기능**: 거래/주거/예산 선택 시 **필터 테이블 저장**(재사용 가능 구조).
 - **채팅 필터 히스토리**: 로그인 사용자가 채팅방에서 조건 선택 시 **동시 기록**.
-- **키워드 알림 히스토리**: 동일 조건 존재 시 **재사용**, 없으면 **신규 필터 저장 + 히스토리 기록**.
 - **채팅 목록 조회/검색**: 로그인 사용자의 전체 채팅방 조회 + **제목/내용 키워드 최신 매칭** 검색.
 
 
