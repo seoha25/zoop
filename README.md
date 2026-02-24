@@ -41,7 +41,7 @@
 | Auth | **JWT** |
 | DB | **PostgreSQL** |
 | Infra | **AWS (EC2)** |
-| Collaboration/ETC | **GitHub**, **Notion**, **Figma**, **Postman** |
+| Collaboration | **GitHub**, **Notion**, **Figma** |
 
 ---
 
