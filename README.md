@@ -37,7 +37,7 @@
 | 분류 | 기술 |
 |---|---|
 | Language | **Java**, **Python** |
-| Backend | **Spring Boot**, **Spring Security**, **JPA (Hibernate)**|
+| Backend | **Spring Boot**, **Spring Security**, **JPA**|
 | Auth | **JWT** |
 | DB | **PostgreSQL** |
 | Infra | **AWS (EC2)** |
